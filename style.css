@@ -1,0 +1,52 @@
+/*.toplinks {
+    text-align: right
+}*/
+
+p {
+    color: blue;
+}
+
+body {
+    }
+
+.logoimg {
+    text-align: center;
+    margin: 200 200 20 200;
+}
+
+.searchbox {
+    align-items: center;
+    margin: 0 200 0 500;
+    
+    
+}
+
+input[type="text"] {
+    width: 400;
+    height: 35;
+}
+
+button.searchbut {
+    margin-left: 575;
+}
+
+a {
+    text-decoration: none;
+    padding: 0 20 0 20;
+}
+
+.signinbutton {
+    background-color: blue;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    float:right;
+}
